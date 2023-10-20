@@ -14,7 +14,8 @@ const svgMap= {
     cow,
     dog,
     gator,
-    horse
+    horse,
+    racoon
 }
 
 //component returns jsx for image of animal sent by App.js
