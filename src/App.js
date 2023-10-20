@@ -6,6 +6,7 @@ import './App.css';
 function getRandomAnimal(){
     const animals = ['bird','cat','cow','dog','gator','horse'];
     return animals[Math.floor(Math.random() * animals.length)];
+    console.log("pulling here")
 }
 
 function App(){
